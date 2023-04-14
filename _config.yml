@@ -1,0 +1,8 @@
+# Site settings
+title: Your Site Title
+description: Your site description
+theme: jekyll-theme-slate
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
